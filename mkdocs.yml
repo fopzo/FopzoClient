@@ -1,0 +1,13 @@
+site_name: Fopzo Client
+nav:
+  - Quick Start:
+    - Home: index.md
+    - Handshake: token.md
+  - Quick References:
+    - Schemes: schemes.md
+    - Services: services.md
+    - Events: events.md
+    - Client: client.md
+  - Examples:
+    - getPlayer2: examples/getPlayer2Request.md
+theme: readthedocs
