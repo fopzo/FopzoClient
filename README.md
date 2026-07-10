@@ -1,4 +1,4 @@
-# FopzoClient
+# FopzoClient (БОЛЬШЕ НЕ ВОРК 10.07.2026)
 Unofficial client for the Standoff 2
 
 📚 Documentation: [click](https://fopzoclient.readthedocs.io/)
